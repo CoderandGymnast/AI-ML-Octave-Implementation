@@ -1,0 +1,1 @@
+_X = [1 1; 1 2; 1 3];_t = [2; 4];_y = [6;10;14];_r = computeCost(_X, _y, _t);if _r == 0  disp("True");  else  disp("False");end;
